@@ -1,0 +1,4 @@
+http://wp1.com/wp-login.php
+ Username: admin
+ Password: admin
+-----------------------------------------
